@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="img" aria-label="Footer">
+  <title>Footer</title>
+  <style>
+  .sans { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Inter, Ubuntu, 'Helvetica Neue', Arial, sans-serif, 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji'; }
+  .emoji { font-family: 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif; }
+  .mono { font-family: 'JetBrains Mono', 'SF Mono', 'Cascadia Code', Consolas, Menlo, 'Liberation Mono', monospace; }
+.w1 { animation: sway 8s ease-in-out infinite; } .w2 { animation: sway 11s ease-in-out infinite reverse; }
+      @keyframes sway { 0%,100% { transform: translateX(0); } 50% { transform: translateX(-40px); } }</style>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#06b6d4"/><stop offset=".5" stop-color="#6366f1"/><stop offset="1" stop-color="#0f172a"/></linearGradient></defs>
+
+  <g>
+    <path class="w2" d="M-80 120V56L-80 67.3L-60 68.4L-40 69.4L-20 70.2L0 70.9L20 71.4L40 71.8L60 72.0L80 72.0L100 71.8L120 71.5L140 71.0L160 70.3L180 69.5L200 68.5L220 67.4L240 66.1L260 64.8L280 63.3L300 61.8L320 60.2L340 58.6L360 56.9L380 55.2L400 53.6L420 51.9L440 50.3L460 48.8L480 47.3L500 46.0L520 44.7L540 43.6L560 42.6L580 41.8L600 41.1L620 40.6L640 40.2L660 40.0L680 40.0L700 40.2L720 40.5L740 41.0L760 41.7L780 42.5L800 43.5L820 44.6L840 45.9L860 47.2L880 48.7L900 50.2L920 51.8L940 53.4L960 55.1L980 56.8L1000 58.4L1020 60.1L1040 61.7L1060 63.2L1080 64.7L1100 66.0L1120 67.3L1140 68.4L1160 69.4L1180 70.2L1200 70.9L1220 71.4L1240 71.8L1260 72.0L1280 72.0V120Z" fill="url(#g)" fill-opacity=".35"/>
+    <path class="w1" d="M-80 120V72L-80 67.1L-60 68.3L-40 69.5L-20 70.7L0 72.0L20 73.3L40 74.5L60 75.7L80 76.9L100 78.0L120 79.1L140 80.0L160 80.9L180 81.7L200 82.4L220 83.0L240 83.4L260 83.7L280 83.9L300 84.0L320 83.9L340 83.7L360 83.4L380 83.0L400 82.4L420 81.7L440 80.9L460 80.0L480 79.1L500 78.0L520 76.9L540 75.7L560 74.5L580 73.3L600 72.0L620 70.7L640 69.5L660 68.3L680 67.1L700 66.0L720 64.9L740 64.0L760 63.1L780 62.3L800 61.6L820 61.0L840 60.6L860 60.3L880 60.1L900 60.0L920 60.1L940 60.3L960 60.6L980 61.0L1000 61.6L1020 62.3L1040 63.1L1060 64.0L1080 64.9L1100 66.0L1120 67.1L1140 68.3L1160 69.5L1180 70.7L1200 72.0L1220 73.3L1240 74.5L1260 75.7L1280 76.9V120Z" fill="url(#g)" fill-opacity=".85"/>
+  </g>
+
+</svg>

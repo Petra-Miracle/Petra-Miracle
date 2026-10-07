@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile assets
 
 on:
   schedule:
@@ -14,12 +14,24 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate activity dashboard
+        run: node scripts/generate-stats.mjs dist ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?palette=github-dark&color_snake=#06b6d4&color_dots=#161b22,#312e81,#4338ca,#4f46e5,#818cf8
             dist/snake-light.svg?color_snake=#4f46e5
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
