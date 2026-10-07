@@ -32,7 +32,7 @@ const petra = {
 
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,nodejs,express,prisma,postgres,php,mysql,flutter,dart,python&perline=8" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,netlify,vscode,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,netlify,vscode&perline=8" /><a href="https://pen.dev"><img src="assets/pendev.svg" alt="Pen.dev" title="Pen.dev" /></a>
 
 </div>
 
