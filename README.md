@@ -5,6 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Building+web+%26+mobile+apps+that+matter;React+%E2%80%A2+Next.js+%E2%80%A2+Express+%E2%80%A2+Flutter;Exploring+MLOps+%26+real-time+systems" alt="Typing SVG" /></a>
 
 <p>
+  <a href="https://petra-portfolio-mocha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/petra-lenggu-538226319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/petdailly_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://x.com/SmkindEzz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -75,6 +76,7 @@ const petra = {
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/Petra-Miracle/Petra-Portfolio">Petra Portfolio</a></h3>
       <p>Portfolio pribadi dengan admin panel untuk mengelola project &amp; teknologi.</p>
+      <p>🔗 <a href="https://petra-portfolio-mocha.vercel.app/"><b>Live demo</b></a></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       <br/><sub><a href="https://github.com/Petra-Miracle/Petra-Portfolio-Backend">→ Backend</a></sub>
