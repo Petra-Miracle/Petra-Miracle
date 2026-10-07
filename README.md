@@ -97,7 +97,10 @@ const petra = {
 
 <img width="85%" src="https://streak-stats.demolab.com?user=Petra-Miracle&theme=tokyonight&hide_border=true&border_radius=12" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Petra-Miracle&theme=tokyo-night&hide_border=true&radius=12&area=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Petra-Miracle/Petra-Miracle/output/snake.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/Petra-Miracle/Petra-Miracle/output/snake-light.svg" />
+</picture>
 
 </div>
 
