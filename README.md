@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/petra-lenggu-538226319"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/petdailly_"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
   <a href="https://x.com/SmkindEzz"><img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Petra-Miracle&style=for-the-badge&color=4f46e5&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/Petra-Miracle?tab=followers"><img src="https://img.shields.io/github/followers/Petra-Miracle?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=4f46e5&labelColor=0f172a" alt="GitHub followers" /></a>
 </p>
 
 <br/>
